@@ -7,3 +7,8 @@ p.intro {
 img.intro {
   zoom: 50%;
 }
+
+.highlight {
+  background-color: salmon;
+  border-style: dotted; 
+}
